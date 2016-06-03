@@ -1,4 +1,4 @@
 # KHKClanPortal
 This is a simple portal page for KHK clan website.
 
-##[View demo](https://khkkhalid.github.io/KHKClanPortal)
+##[See it in action](http://khkclan.ml)
